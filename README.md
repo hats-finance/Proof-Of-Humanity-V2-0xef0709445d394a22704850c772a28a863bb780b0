@@ -1,3 +1,11 @@
+# Audit Competition for Proof-Of-Humanity-V2
+This repository is for the audit competition for the Proof-Of-Humanity-V2.
+To participate, submit your findings only by using the on-chain submission process on https://app.hats.finance/vulnerability .
+## How to participate
+- follow the instructions on https://app.hats.finance/
+## Good luck!
+We look forward to seeing your findings.
+* * *
 # Cross-chain Proof-of-Humanity
 
 Smart contracts for the cross-chain version of Proof-of-Humanity
